@@ -1,4 +1,4 @@
-Here's a Markdown summary of the paper for your academic page:
+
 
 # Molecular Joint Representation Learning via Multi-Modal Information of SMILES and Graphs
 
